@@ -1,0 +1,2 @@
+# MRP-Prediction-Using-Machine-Learning-Code-and-Implementation
+This repository contains the code for my master's thesis project, "MRP Prediction Using Machine Learning". The project aims to develop models for predicting the Maximum Retail Price (MRP) of products using machine learning techniques. It includes data preprocessing, exploratory data analysis, feature engineering, model building, and evaluation.
