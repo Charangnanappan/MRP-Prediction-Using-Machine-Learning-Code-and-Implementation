@@ -25,8 +25,12 @@ Retailers often struggle with optimal pricing strategies. This project uses mach
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
-## ⚙️ How to Run
+## How to Run
 1. Clone the repository:
-   ```bash
    git clone https://github.com/Charangnanappan/MRP-Prediction-Using-Machine-Learning-Code-and-Implementation.git
    cd MRP-Prediction-Using-Machine-Learning-Code-and-Implementation
+
+2. Install required libraries:
+
+3. Open the notebooks using Jupyter and run all cells in order.
+
